@@ -4,16 +4,12 @@ namespace Rendering
 {
     public class Spin : MonoBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
-        
-        }
+        [SerializeField] private float speed = .1f;
 
         // Update is called once per frame
         void Update()
         {
-            transform.RotateAround(transform.position, Vector3.up, .2f);
+            transform.RotateAround(transform.position, Vector3.up, speed);
         }
     }
 }

@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RetroTest
-  m_Shader: {fileID: -6465566751694194690, guid: eb0cb4e426bea6645bb0794043e117ac, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 07b946cc4f26e4f40889d06f593fd344, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -93,6 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_0b100411e9b34e798a9fc9d430346245: 500
     - Vector1_1322027c47054f04862483999821085b: 5
     - _AlphaClip: 0
     - _Blend: 0
