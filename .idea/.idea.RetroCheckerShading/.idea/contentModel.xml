@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\nsk20\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -10,15 +10,19 @@
         <e p="Rendering" t="Include">
           <e p="Spin.cs" t="Include" />
         </e>
-        <e p="Scripts" t="Include">
-          <e p="SimpleCameraController.cs" t="Include" />
-          <e p="SimpleMove.cs" t="Include" />
-        </e>
-        <e p="Simple Toon Shader" t="Include">
+        <e p="RetroShader" t="Include">
           <e p="EvenFilter.hlsl" t="Include" />
           <e p="HighPass.hlsl" t="Include" />
           <e p="MainLight.hlsl" t="Include" />
           <e p="NonNullAdd.hlsl" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MainMenu" t="Include">
+            <e p="Connector.cs" t="Include" />
+            <e p="ConnectorHub.cs" t="Include" />
+          </e>
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="SimpleMove.cs" t="Include" />
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: qube_v2_mtl
+  m_Name: standard
   m_Shader: {fileID: -6465566751694194690, guid: 07b946cc4f26e4f40889d06f593fd344, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_e680b9ff7c2844bb8e21aef3ef0506e9:
-        m_Texture: {fileID: 2800000, guid: ee3eeff3481c87e4e94abd24b8b2d447, type: 3}
+        m_Texture: {fileID: 2800000, guid: d88827958731d474899fb1e4219416c9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlphaTex:
