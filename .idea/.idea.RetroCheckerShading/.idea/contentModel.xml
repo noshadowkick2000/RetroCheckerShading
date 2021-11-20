@@ -17,12 +17,23 @@
           <e p="NonNullAdd.hlsl" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="Controls" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="ControllerHandler.cs" t="Include" />
+          </e>
           <e p="MainMenu" t="Include">
+            <e p="CommandList.cs" t="Include" />
             <e p="Connector.cs" t="Include" />
             <e p="ConnectorHub.cs" t="Include" />
+            <e p="ControllerConnector.cs" t="Include" />
+            <e p="ControllerConnectorHub.cs" t="Include" />
+            <e p="LineAnchor.cs" t="Include" />
           </e>
           <e p="SimpleCameraController.cs" t="Include" />
           <e p="SimpleMove.cs" t="Include" />
+        </e>
+        <e p="SharedValues" t="Include">
+          <e p="FloatParameter.cs" t="Include" />
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
